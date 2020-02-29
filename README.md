@@ -15,5 +15,5 @@ $ ./script/test
 
 ## Theme
 
-![rsdev69](Screenshot/1.png)
+![rsdev69](https://github.com/rsdev69/rsdev69-iterm2/blob/master/Screenshot%20/1.png)
 
