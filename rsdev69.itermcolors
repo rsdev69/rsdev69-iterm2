@@ -353,5 +353,18 @@
 		<key>Red Component</key>
 		<real>0.23137256503105164</real>
 	</dict>
+	<key>Underline Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.50694197416305542</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.3795028030872345</real>
+		<key>Red Component</key>
+		<real>0.34893858432769775</real>
+	</dict>
 </dict>
 </plist>
